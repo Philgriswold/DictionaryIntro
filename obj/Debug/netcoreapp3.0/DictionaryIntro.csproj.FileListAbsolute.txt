@@ -1,0 +1,11 @@
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.deps.json
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.runtimeconfig.json
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.runtimeconfig.dev.json
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.dll
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/bin/Debug/netcoreapp3.0/DictionaryIntro.pdb
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.csprojAssemblyReference.cache
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.AssemblyInfoInputs.cache
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.AssemblyInfo.cs
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.dll
+/Users/PhilGriswold/Applications/workspace/DictionaryIntro/obj/Debug/netcoreapp3.0/DictionaryIntro.pdb
